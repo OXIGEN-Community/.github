@@ -1,4 +1,4 @@
-## Selamat Datang di UKM OXIGEN STT Bandung
+## Selamat Datang di Komunitas OXIGEN STT Bandung
 
 [![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/company/oxigen-stt-bandung/about/)
 [![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/oxigensttbandung/)
